@@ -1,0 +1,30 @@
+[
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\Users\\\\AMD\\\\Desktop\\\\test\\\\pages\\\\users\\\\index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_4fdb69d5"
+  },
+  {
+    "name": "users-create",
+    "path": "/users/create",
+    "component": "C:\\\\Users\\\\AMD\\\\Desktop\\\\test\\\\pages\\\\users\\\\create.vue",
+    "chunkName": "pages/users/create",
+    "_name": "_5973c8ee"
+  },
+  {
+    "name": "users-id",
+    "path": "/users/:id",
+    "component": "C:\\\\Users\\\\AMD\\\\Desktop\\\\test\\\\pages\\\\users\\\\_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_a5184506"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\AMD\\\\Desktop\\\\test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b26fd052"
+  }
+]
